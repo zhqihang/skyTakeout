@@ -13,3 +13,10 @@ sky:
       accessKeyId: LTAI5tQffzUABx3e4F29aVn6
       accessKeySecret: bmzQaoNWStCIzcPUyq4xo9rOWDHTh8
       bucketName: sky-take-out-qihang
+
+  # Redis数据库
+  redis:
+    host: 127.0.0.1
+    port: 6379
+    auth: 123456
+    database: 0
