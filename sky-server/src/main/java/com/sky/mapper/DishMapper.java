@@ -73,7 +73,7 @@ public interface DishMapper {
      * @return
      */
     // @Select("select * from dish where category_id = #{categoryId}")
-    List<Dish> getList(Dish dish);
+    List<Dish> list(Dish dish);
 
     /**
      * 根据套餐id查询菜品
