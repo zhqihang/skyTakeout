@@ -10,9 +10,9 @@ sky:
   # 阿里云OSS
   alioss:
       endpoint: oss-cn-guangzhou.aliyuncs.com
-      accessKeyId: LTAI5tQffzUABx3e4F29aVn6
-      accessKeySecret: bmzQaoNWStCIzcPUyq4xo9rOWDHTh8
-      bucketName: sky-take-out-qihang
+      accessKeyId: 
+      accessKeySecret: 
+      bucketName: 
 
   # Redis数据库
   redis:
